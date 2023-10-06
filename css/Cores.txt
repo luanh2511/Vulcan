@@ -1,0 +1,9 @@
+Cores:
+
+Azul Claro(Dodger Blue): #1E90FF
+
+Azul Escuro (Royal Blue): #4169E1
+
+Azul Fundo (Alice Blue): #F0F8FF
+
+Cor Logo (Azul Vulcan!): RGB(0,174,255)

@@ -1,0 +1,106 @@
+@font-face {
+  font-family: fonte;
+  src: url(Mayan.ttf);
+
+}
+
+.display-2{
+	font-family: fonte;
+	color:black;
+	-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color:black; color:#4169E1;
+}
+.navbar-brand{
+	font-family: fonte;
+}
+
+
+body{
+	background-image:url('../imagem/city2.jpg');
+}
+
+.display-4{
+font-family: 'Roboto', sans-serif;
+font-size: 5em; color:black;
+}
+
+.display{
+font-family: 'Roboto', sans-serif;
+	-webkit-text-stroke-width: 2px;
+ -webkit-text-stroke-color: black;
+font-size: 4.5em; color:white;
+}
+
+.leade{
+	font-family: 'Bitter', serif;
+	-webkit-text-stroke-width: 1.6px;
+ -webkit-text-stroke-color: black;
+ font-weight: bold;
+font-size: 2em; color:white;
+}
+
+.lead{
+font-family: 'Crimson Text', serif;
+font-size: 1.7em; color:black;
+}
+
+.leada{
+font-family: 'Crimson Text', serif;
+font-size: 1.2em; color:black;
+}
+
+.leadu{
+font-family: 'Crimson Text', serif;
+font-size: 1.2em; color:black;
+}
+
+.dropdown-menu{
+	background-color:#7B68EE;
+}
+
+.card-bodyy{
+	background-image:url('../imagem/trab.png');
+}
+
+.card-titlel{
+font-family: 'Roboto', sans-serif;
+font-size: 3em; color:white;
+}
+
+.card-texto{
+font-family: 'Roboto', sans-serif;
+font-size: 2.3em; color:white;
+}
+
+.figure{
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color:black;
+font-size: 1.3em; color:black;
+}
+
+.figures{
+	width:45%
+
+}
+
+.display-3{
+	font-family:'Roboto', sans-serif;
+	color:black;
+	font-size: 5.8em; 
+}
+
+.display-5{
+font-family: 'Roboto', sans-serif;
+font-size: 5em; color:white;
+}
+
+.display-6{
+font-family:'Roboto', sans-serif;
+font-size: 2.5em; color:black;
+}
+
+.display-7{
+font-family: 'Roboto', sans-serif;
+font-size: 1.5em; color:black;
+}
+
